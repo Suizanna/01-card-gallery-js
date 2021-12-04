@@ -8,7 +8,7 @@ body {
   font-family: 'Muli', sans-serif;
   overflow: hidden;
   margin: 0;
-  background: #595959;
+  background: #111;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -27,7 +27,7 @@ body {
   margin: 10px;
   cursor: pointer;
   color: #fff;
-  flex: 1; /* растягивается пропорционально*/
+  flex: 1;  /* растягивается пропорционально*/
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
